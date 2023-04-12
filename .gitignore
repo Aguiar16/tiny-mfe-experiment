@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.yalc
+yalc.lock
+.env
+node_modules
